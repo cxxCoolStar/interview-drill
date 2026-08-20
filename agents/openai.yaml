@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interview Drill"
+  short_description: "Practice an adaptive, one-question-at-a-time interview"
+  default_prompt: "Use $interview-drill to interview me from the materials I provide. Ask one question at a time, give factual feedback after each answer, and answer my counterquestions before continuing."
